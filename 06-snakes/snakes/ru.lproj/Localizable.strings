@@ -1,0 +1,17 @@
+/* Russian localization */
+"Game History" = "История игр";
+"Snakes & Ladders / Змеи и Лестницы" = "Змеи и Лестницы";
+"Select number of players:" = "Выберите количество игроков:";
+"Players" = "Игроки";
+"Start Game" = "Начать игру";
+"Player %@" = "Игрок %@";
+"Player %@ wins!" = "Игрок %@ победил!";
+"New Game" = "Новая игра";
+"Roll for Player %@" = "Бросок для игрока %@";
+"No game history available." = "Нет записей об играх.";
+"Winner: Player %@" = "Победитель: игрок %@";
+"Players: %@" = "Игроки: %@";
+"Close" = "Закрыть";
+"Clear" = "Очистить";
+"Last roll: %d" = "Последний бросок: %d";
+"Player %@ moves: %d → %d (by %d)" = "Игрок %@ ходит: %d → %d (на %d)";

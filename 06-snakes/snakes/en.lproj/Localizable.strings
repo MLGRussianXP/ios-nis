@@ -1,0 +1,17 @@
+/* English localization */
+"Game History" = "Game History";
+"Snakes & Ladders / Змеи и Лестницы" = "Snakes & Ladders";
+"Select number of players:" = "Select number of players:";
+"Players" = "Players";
+"Start Game" = "Start Game";
+"Player %@" = "Player %@";
+"Player %@ wins!" = "Player %@ wins!";
+"New Game" = "New Game";
+"Roll for Player %@" = "Roll for Player %@";
+"No game history available." = "No game history available.";
+"Winner: Player %@" = "Winner: Player %@";
+"Players: %@" = "Players: %@";
+"Close" = "Close";
+"Clear" = "Clear";
+"Last roll: %d" = "Last roll: %d";
+"Player %@ moves: %d → %d (by %d)" = "Player %@ moves: %d → %d (by %d)";
