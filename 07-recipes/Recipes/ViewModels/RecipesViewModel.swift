@@ -9,5 +9,5 @@ import Foundation
 internal import Combine
 
 class RecipesViewModel : ObservableObject {
-    
+    @Published var showingNewRecipeView = false
 }

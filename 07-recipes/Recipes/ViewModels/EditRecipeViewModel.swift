@@ -112,7 +112,7 @@ class EditRecipeViewModel : ObservableObject {
     }
     
     private func saveRecipe(recipe: Recipe) {
-        Utils.db.collection("recipeCloudNotes").document(recipe.id).updateData(["recipe" : recipe.asDictionary])
+        Utils.db.collection("recipeCloudNotes").document(recipe.id).updateData(["recipe" : recipe.asDictionary()])
         
         guard let userId = Auth.auth().currentUser?.uid else {
             return
