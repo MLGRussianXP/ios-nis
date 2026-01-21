@@ -213,4 +213,9 @@ class GameState {
         winner = nil
         setupInitialBoard()
     }
+    
+    /// Изменить режим игры
+    func setGameMode(_ mode: GameMode) {
+        gameMode = mode
+    }
 }
