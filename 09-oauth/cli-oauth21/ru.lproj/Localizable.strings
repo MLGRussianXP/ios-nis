@@ -1,0 +1,64 @@
+"navigation_title" = "OAuth 2.1 Демо";
+"oauth_flow_title" = "OAuth 2.1 Аутентификация";
+
+"alert_ok" = "ОК";
+"alert_error_title" = "Ошибка";
+"alert_success_title" = "Успех";
+"alert_logged_in" = "Вход выполнен";
+"alert_token_refreshed" = "Токен обновлен";
+
+"step1_title" = "Шаг 1: Введите учетные данные";
+"username_placeholder" = "Имя пользователя";
+"password_placeholder" = "Пароль";
+
+"step2_title" = "Шаг 2: Регистрация клиента";
+"step2_subtitle" = "Зарегистрируйте приложение как OAuth-клиент";
+"step2_action" = "Зарегистрировать клиента";
+
+"step3_title" = "Шаг 3: Регистрация пользователя";
+"step3_subtitle" = "Создать новую учетную запись";
+"step3_action" = "Зарегистрировать пользователя";
+
+"step4_title" = "Шаг 4: Аутентификация";
+"step4_subtitle" = "Завершите OAuth 2.1 аутентификацию";
+"step4_action" = "Аутентифицироваться";
+
+"reauth_title" = "Повторный вход";
+"reauth_subtitle" = "Войти с существующим пользователем";
+"reauth_action" = "Войти";
+
+"reset_action" = "Сбросить процесс";
+"reset_caption" = "Это очистит весь прогресс";
+
+"profile_title" = "Профиль";
+"profile_subtitle" = "Аутентифицирован";
+
+"refresh_token_action" = "Обновить токен";
+"logout_action" = "Выйти";
+
+"loading_title" = "Выполняется...";
+
+"userinfo_title" = "Информация о пользователе:";
+"userinfo_id" = "ID пользователя";
+"userinfo_username" = "Имя пользователя";
+"userinfo_email" = "Email";
+"userinfo_updated" = "Последнее обновление";
+
+"profile_id" = "ID";
+"profile_username" = "Имя пользователя";
+"profile_updated" = "Дата обновления";
+
+"token_expires_in" = "Истекает через:";
+"token_remaining_hours_minutes" = "%d ч %d мин";
+"token_remaining_minutes_seconds" = "%d мин %d сек";
+"na_value" = "Н/Д";
+
+"error_invalid_url" = "Некорректный URL сервера";
+"error_client_not_registered" = "Клиент не зарегистрирован";
+"error_server_generic" = "Ошибка сервера. Попробуйте снова.";
+"error_invalid_response" = "Некорректный ответ сервера";
+"error_not_authenticated" = "Не выполнен вход";
+"error_400" = "Некорректный запрос. Проверьте данные.";
+"error_401" = "Сессия истекла. Войдите снова.";
+"error_429" = "Слишком много попыток. Пожалуйста, подождите.";
+"error_network" = "Нет соединения с сервером.";

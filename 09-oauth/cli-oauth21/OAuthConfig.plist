@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>BaseURL</key>
+    <string>http://localhost:3000</string>
+    <key>RedirectURI</key>
+    <string>demoapp://oauth-callback</string>
+    <key>ClientName</key>
+    <string>Demo iOS App</string>
+    <key>Scope</key>
+    <string>openid profile</string>
+    <key>ClientIdStorageKey</key>
+    <string>oauth_client_id</string>
+    <key>AccessTokenKey</key>
+    <string>access_token</string>
+    <key>RefreshTokenKey</key>
+    <string>refresh_token</string>
+</dict>
+</plist>

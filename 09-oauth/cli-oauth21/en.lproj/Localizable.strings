@@ -1,0 +1,64 @@
+"navigation_title" = "OAuth 2.1 Demo";
+"oauth_flow_title" = "OAuth 2.1 Authentication Flow";
+
+"alert_ok" = "OK";
+"alert_error_title" = "Error";
+"alert_success_title" = "Success";
+"alert_logged_in" = "Logged in";
+"alert_token_refreshed" = "Token refreshed";
+
+"step1_title" = "Step 1: Enter Credentials";
+"username_placeholder" = "Username";
+"password_placeholder" = "Password";
+
+"step2_title" = "Step 2: Client Registration";
+"step2_subtitle" = "Register this app as an OAuth client";
+"step2_action" = "Register Client";
+
+"step3_title" = "Step 3: User Registration";
+"step3_subtitle" = "Create a new user account";
+"step3_action" = "Register User";
+
+"step4_title" = "Step 4: Authentication";
+"step4_subtitle" = "Complete OAuth 2.1 authentication flow";
+"step4_action" = "Authenticate";
+
+"reauth_title" = "Re-authenticate";
+"reauth_subtitle" = "Authenticate with existing user";
+"reauth_action" = "Sign In";
+
+"reset_action" = "Reset Flow";
+"reset_caption" = "This will clear all progress";
+
+"profile_title" = "Profile";
+"profile_subtitle" = "Authenticated";
+
+"refresh_token_action" = "Refresh Token";
+"logout_action" = "Log Out";
+
+"loading_title" = "Processing...";
+
+"userinfo_title" = "User Information:";
+"userinfo_id" = "User ID";
+"userinfo_username" = "Username";
+"userinfo_email" = "Email";
+"userinfo_updated" = "Last Updated";
+
+"profile_id" = "ID";
+"profile_username" = "Username";
+"profile_updated" = "Last Updated";
+
+"token_expires_in" = "Expires in:";
+"token_remaining_hours_minutes" = "%d h %d min";
+"token_remaining_minutes_seconds" = "%d min %d sec";
+"na_value" = "N/A";
+
+"error_invalid_url" = "Invalid server URL";
+"error_client_not_registered" = "Client not registered";
+"error_server_generic" = "Server error. Please try again.";
+"error_invalid_response" = "Invalid server response";
+"error_not_authenticated" = "Not authenticated";
+"error_400" = "Invalid request. Check data.";
+"error_401" = "Session expired. Log in again.";
+"error_429" = "Too many attempts. Please wait.";
+"error_network" = "No server connection.";
